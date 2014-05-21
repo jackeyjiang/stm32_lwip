@@ -33,3 +33,5 @@
 # Project files
 *.dep
 *.uvopt
+
+/projects/test/mdk/debug/
